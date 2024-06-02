@@ -1,0 +1,97 @@
+.body{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.selector-for-some-widget {
+  box-sizing: content-box;
+  }
+
+.textp1 {
+  font-size: 19px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  text-align: justify;
+}
+
+.container {
+  margin-top: 50px;
+}
+.pqex{
+  margin-top: 40px;
+}
+
+.text-center {
+  text-align: center;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  font-weight: bold;
+}
+
+.banner {
+  width: auto;
+  height: 100%;
+}
+
+img {
+  max-width: 100%;
+  max-height: 100%;
+}
+
+
+.imagemCabecalho {
+  padding-top: 10px;
+  height: auto;
+}
+
+.imagemPrinciapal{
+  width: 100%;
+  height: 80vh;
+}
+
+.test{
+  border : 1px solid black;
+  background-color: aqua;
+  width: 100%;
+  height: 100%;
+}
+
+.imgcard{
+  margin-top: 40px;
+  max-width: 2000px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.imgcard .card {
+  margin-right: 40px;
+}
+
+.card-title,.card-text {
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.7); /* Adiciona uma sombra ao texto */
+}
+
+.perfil {
+  display: flex;
+  justify-content: left;
+  align-items: left;
+  gap: 10px;
+}
+
+.carousel{
+  margin-top: 40px;
+}
+
+
+  .d-block{
+    height: 100%;
+    max-height: 400px;
+  }
+
+.hist{
+  text-align: center;
+  font-size: 50px;
+}
